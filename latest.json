@@ -1,7 +1,7 @@
 {
-  "version": "0.6.0",
+  "version": "0.6.1",
   "minimumSystemVersion": "13.0",
-  "downloadURL": "https://github.com/taekilKim/sidepocket-releases/releases/download/v0.6.0/Sidepocket-0.6.0-unsigned.dmg",
-  "releaseNotesURL": "https://github.com/taekilKim/sidepocket-releases/releases/tag/v0.6.0",
-  "sha256": "d436e054f50cce3a403e366c575beef48da37db2e0d426a3bf7dd4ef9d99e12f"
+  "downloadURL": "https://github.com/taekilKim/sidepocket-releases/releases/download/v0.6.1/Sidepocket-0.6.1-unsigned.dmg",
+  "releaseNotesURL": "https://github.com/taekilKim/sidepocket-releases/releases/tag/v0.6.1",
+  "sha256": "bf268f8a61bbb3338e70d36c4baf1164b2d3d96938e4683f4353536d2ba953ba"
 }
